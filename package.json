@@ -1,7 +1,7 @@
 {
   "name": "simplified-store",
   "description": "just a simplified store without selectors/persist & etc",
-  "private": true,
+  "private": false,
   "version": "0.0.1",
   "module": "./dist/index.mjs",
   "main": "./dist/index.js",
