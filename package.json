@@ -1,0 +1,25 @@
+{
+  "name": "simplified-store",
+  "description": "just a simplified store without selectors/persist & etc",
+  "private": true,
+  "version": "0.0.1",
+  "module": "./dist/index.mjs",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "author": "qweqwexo",
+  "licens": "MIT",
+  "scripts": {
+    "build": "tsup"
+  },
+  "dependencies": {
+    "react": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.3",
+    "typescript": "^5.2.2"
+  },
+  "keywords": [
+    "state-manager", "state manager", "react state manager",
+    "simple state manager", "simplified state", "simplified state manager"
+  ]
+}
