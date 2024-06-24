@@ -8,6 +8,7 @@
   "types": "./dist/index.d.ts",
   "author": "qweqwexo",
   "licens": "MIT",
+  "homepage": "https://github.com/mikhail-balandin/simplified-state-manager",
   "scripts": {
     "build": "tsup"
   },
